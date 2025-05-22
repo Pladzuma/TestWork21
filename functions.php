@@ -4,7 +4,7 @@
  * Определяет API-ключ OpenWeatherMap для получения погодных данных.
  * @link https://openweathermap.org/api
  */
-define('OPENWEATHERMAP_API_KEY', 'a1f40109825954fcf8e4acdfbf3cf195');
+define('OPENWEATHERMAP_API_KEY', 'Ваш ключ');
 
 /**
  * Подключает стили дочерней темы Storefront с поддержкой автокеша.
